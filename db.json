@@ -4,22 +4,22 @@
       "id": "1",
       "marca": "Chevrolet",
       "nome": "Onix",
-      "preco": 76000,
-      "ano": 2022,
-      "quilometragem": 29000,
+      "preco": 45900,
+      "ano": 2015,
+      "quilometragem": 121000,
       "dataValidade": "2023-10-01",
-      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240209211735053_365915865.jpg",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240701151939805_735737083.jpg",
       "vendedorId": "1"
     },
     {
       "id": "2",
       "marca": "Ford",
-      "nome": "Ka",
+      "nome": "Focus",
       "preco": 55000,
       "ano": 2019,
       "quilometragem": 65000,
       "dataValidade": "2024-11-12",
-      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240419083507524_576585693.jpg",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240626172635893_601743485.jpg",
       "vendedorId": "4ff8"
     },
     {
@@ -35,13 +35,13 @@
     },
     {
       "id": "4",
-      "marca": "Ford",
-      "nome": "Ranger",
-      "preco": 120000,
-      "ano": 2022,
-      "quilometragem": 4000,
+      "marca": "Hyundai",
+      "nome": "Tucson",
+      "preco": 62900,
+      "ano": 2014,
+      "quilometragem": 12300,
       "dataValidade": "2023-05-15",
-      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20221101211102049_209558898.jpg",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240628144027778_499458394.jpg",
       "vendedorId": "2"
     },
     {
@@ -68,13 +68,13 @@
     },
     {
       "id": "8",
-      "marca": "Fiat",
-      "nome": "Palio",
-      "quilometragem": "145000",
-      "ano": "2001",
-      "preco": 13000,
+      "marca": "Jeep",
+      "nome": "Compass",
+      "quilometragem": "69000",
+      "ano": "2011",
+      "preco": 119000,
       "dataValidade": "2024-04-03",
-      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20230720213959069_493386228.jpeg",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240703092305557_926330251.jpg",
       "vendedorId": "2"
     }
   ],
