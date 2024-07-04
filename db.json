@@ -1,0 +1,119 @@
+{
+  "carros": [
+    {
+      "id": "1",
+      "marca": "Chevrolet",
+      "nome": "Onix",
+      "preco": 76000,
+      "ano": 2022,
+      "quilometragem": 29000,
+      "dataValidade": "2023-10-01",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240209211735053_365915865.jpg",
+      "vendedorId": "1"
+    },
+    {
+      "id": "2",
+      "marca": "Ford",
+      "nome": "Ka",
+      "preco": 55000,
+      "ano": 2019,
+      "quilometragem": 65000,
+      "dataValidade": "2024-11-12",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240419083507524_576585693.jpg",
+      "vendedorId": "4ff8"
+    },
+    {
+      "id": "3",
+      "marca": "Toyota",
+      "nome": "Etios",
+      "preco": 120000,
+      "ano": "2014",
+      "quilometragem": 25000,
+      "dataValidade": "2024-01-09",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240217210530045_5353321.jpg",
+      "vendedorId": "5bda"
+    },
+    {
+      "id": "4",
+      "marca": "Ford",
+      "nome": "Ranger",
+      "preco": 120000,
+      "ano": 2022,
+      "quilometragem": 4000,
+      "dataValidade": "2023-05-15",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20221101211102049_209558898.jpg",
+      "vendedorId": "2"
+    },
+    {
+      "id": "5",
+      "marca": "Hyundai",
+      "nome": "Hb20",
+      "preco": 82000,
+      "ano": 2023,
+      "quilometragem": 16000,
+      "dataValidade": "2023-06-27",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240511100113584_945270465.jpg",
+      "vendedorId": "1"
+    },
+    {
+      "id": "6",
+      "marca": "Chevrolet",
+      "nome": "Celta",
+      "preco": 35900,
+      "ano": "2015",
+      "quilometragem": "92000",
+      "dataValidade": "2024-04-25",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20240508105042618_444325973.jpg",
+      "vendedorId": "1"
+    },
+    {
+      "id": "8",
+      "marca": "Fiat",
+      "nome": "Palio",
+      "quilometragem": "145000",
+      "ano": "2001",
+      "preco": 13000,
+      "dataValidade": "2024-04-03",
+      "imagemUrl": "https://www.veiculoaqui.com.br/fotopop/veiculoaqui20230720213959069_493386228.jpeg",
+      "vendedorId": "2"
+    }
+  ],
+  "vendedores": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "telefone": 11987654321,
+      "cpf": "123.456.789-90"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "telefone": 11912345678,
+      "cpf": "987.654.321-00"
+    },
+    {
+      "id": "5bda",
+      "nome": "Maria Santos",
+      "email": "ms_21@gmail.com",
+      "telefone": "53987263739",
+      "cpf": "123.456.789-90"
+    },
+    {
+      "id": "4ff8",
+      "nome": "Carlos Augusto",
+      "email": "carlinhos_au@gmail.com",
+      "telefone": "5391283817",
+      "cpf": "05478665420"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "token": "some-random-token"
+    }
+  ]
+}
